@@ -1,4 +1,4 @@
-package net.protoengine.engine.window;
+package net.modularmods.protoengine.engine.window;
 
 import org.lwjgl.glfw.GLFWErrorCallback;
 import org.lwjgl.glfw.GLFWVidMode;

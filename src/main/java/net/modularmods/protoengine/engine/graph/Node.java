@@ -1,7 +1,7 @@
-package net.protoengine.engine.graph;
+package net.modularmods.protoengine.engine.graph;
 
 import lombok.Getter;
-import net.protoengine.engine.utils.Shader;
+import net.modularmods.protoengine.engine.utils.Shader;
 import org.joml.Matrix4f;
 import org.joml.Quaternionf;
 import org.joml.Vector3f;

@@ -1,9 +1,9 @@
-package net.protoengine.engine.graph;
+package net.modularmods.protoengine.engine.graph;
 
-import net.protoengine.engine.scene.Scene;
-import net.protoengine.engine.utils.Camera;
-import net.protoengine.engine.utils.Shader;
-import net.protoengine.engine.window.Window;
+import net.modularmods.protoengine.engine.scene.Scene;
+import net.modularmods.protoengine.engine.window.Window;
+import net.modularmods.protoengine.engine.utils.Camera;
+import net.modularmods.protoengine.engine.utils.Shader;
 import org.joml.Matrix4f;
 import org.lwjgl.opengl.GL;
 

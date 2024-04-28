@@ -1,9 +1,9 @@
-package net.protoengine.engine;
+package net.modularmods.protoengine.engine;
 
-import net.protoengine.engine.graph.Render;
-import net.protoengine.engine.inputs.InputsManager;
-import net.protoengine.engine.scene.Scene;
-import net.protoengine.engine.window.Window;
+import net.modularmods.protoengine.engine.graph.Render;
+import net.modularmods.protoengine.engine.scene.Scene;
+import net.modularmods.protoengine.engine.window.Window;
+import net.modularmods.protoengine.engine.inputs.InputsManager;
 
 public class Engine {
 

@@ -4,7 +4,7 @@ plugins {
 }
 
 
-group = 'net.protoengine'
+group = 'net.modularmods'
 version = '1.0-SNAPSHOT'
 
 project.ext.lwjglVersion = "3.3.4-SNAPSHOT"
@@ -50,7 +50,7 @@ dependencies {
 
 // Define the run task to execute the application
 application {
-    mainClassName = "net.protoengine.Main" // Use the main class defined above
+    mainClassName = "net.modularmods.protoengine.Main" // Use the main class defined above
     //For Mac OS
     //applicationDefaultJvmArgs = ["-XstartOnFirstThread", "-Xmx512m"]
 }

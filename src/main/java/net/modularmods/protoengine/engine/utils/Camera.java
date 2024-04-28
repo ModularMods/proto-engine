@@ -1,4 +1,4 @@
-package net.protoengine.engine.utils;
+package net.modularmods.protoengine.engine.utils;
 
 import org.joml.Matrix4f;
 import org.joml.Vector3f;

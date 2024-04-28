@@ -1,7 +1,7 @@
-package net.protoengine;
+package net.modularmods.protoengine;
 
-import net.protoengine.engine.Engine;
-import net.protoengine.game.Game;
+import net.modularmods.protoengine.engine.Engine;
+import net.modularmods.protoengine.game.Game;
 
 public class Main {
     public static void main(String[] args) {

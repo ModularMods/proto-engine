@@ -1,10 +1,10 @@
-package net.protoengine.game;
+package net.modularmods.protoengine.game;
 
-import net.protoengine.engine.IAppLogic;
-import net.protoengine.engine.graph.Render;
-import net.protoengine.engine.scene.Scene;
-import net.protoengine.engine.utils.Camera;
-import net.protoengine.engine.window.Window;
+import net.modularmods.protoengine.engine.IAppLogic;
+import net.modularmods.protoengine.engine.graph.Render;
+import net.modularmods.protoengine.engine.scene.Scene;
+import net.modularmods.protoengine.engine.utils.Camera;
+import net.modularmods.protoengine.engine.window.Window;
 
 public class Game implements IAppLogic {
 

@@ -1,4 +1,4 @@
-package net.protoengine.engine.inputs;
+package net.modularmods.protoengine.engine.inputs;
 
 @FunctionalInterface
 public interface KeyAction {

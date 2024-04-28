@@ -1,7 +1,7 @@
-package net.protoengine.engine.scene;
+package net.modularmods.protoengine.engine.scene;
 
-import net.protoengine.engine.graph.Node;
-import net.protoengine.engine.utils.Camera;
+import net.modularmods.protoengine.engine.graph.Node;
+import net.modularmods.protoengine.engine.utils.Camera;
 
 public class Scene extends Node {
 
